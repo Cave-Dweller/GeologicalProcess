@@ -1,9 +1,9 @@
 /*=======================LICENSE=======================
 ||  Semaphore.hpp                                     ||
 ||                                                    ||
-||           Copyright 2015 Kiel Geiger               ||
+||           Copyright 2017 Kelsey Geiger             ||
 ||                                                    ||
-||              kielgeiger@gmail.com                  ||
+||              kelseyrgeiger@gmail.com               ||
 ||                                                    ||
 ||   Licensed under the Apache License, Version 2.0   ||
 ||   (the "License"); you may not use this file       ||
